@@ -6,4 +6,4 @@ edad:20 añosgit
 
 fecha de nacimiento:30 de octubre
 
-pasatiempo favorito:videojuegos
+pasatiempo favorito:videojuegos y hacer videos
